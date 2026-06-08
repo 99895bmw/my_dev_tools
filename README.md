@@ -3,6 +3,7 @@
 > **As a solo developer primarily focusing on AI/ML based projects, Data Structures & Algorithms (DSA) using Python, I understand the friction of solo development. I feel the same pain many do: the need for a helping hand in complex projects and daily workflows. Here is my curated working environment, structured to optimize local resources, system architecture, and code efficiency. This might help you set up your own.**
 
 ---
+![](workflowarchitecture.png)
 
 ## Tools I Use
 
