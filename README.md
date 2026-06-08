@@ -83,9 +83,9 @@ Nothing beats its versatility, massive extension ecosystem, and lightweight natu
 * **Excalidraw:** An infinite canvas extension that is absolutely invaluable. I use it directly within my notes for sketching out algorithmic visualizations, mapping database schemas, and designing architectural flowcharts.
 
 ## Start your Setup now
-### Aider: [text](https://aider.chat/#getting-started)
-### Open WebUI: [text](https://github.com/open-webui/open-webui#how-to-install-)
-### uv: [text](https://docs.astral.sh/uv/getting-started/installation/)
-### Obsidian: [text](https://obsidian.md/download)
-### Openrouter: [text](https://openrouter.ai/)
-### Ollama: [text](https://ollama.com/)
+### Aider: [Click_here](https://aider.chat/#getting-started)
+### Open WebUI: [Click_here](https://github.com/open-webui/open-webui#how-to-install-)
+### uv: [Click_here](https://docs.astral.sh/uv/getting-started/installation/)
+### Obsidian: [Click_here](https://obsidian.md/download)
+### Openrouter: [Click_here](https://openrouter.ai/)
+### Ollama: [Click_here](https://ollama.com/)
